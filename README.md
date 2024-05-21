@@ -43,13 +43,5 @@ O projeto é estruturado da seguinte forma:
 
 Contribuições são bem-vindas! Se você encontrar algum problema ou tiver alguma sugestão, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-
-## Contato
-
-Se você tiver alguma dúvida ou precisar de mais informações, entre em contato com o autor.
-
 
 
